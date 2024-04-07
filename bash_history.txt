@@ -1,0 +1,403 @@
+ls
+neofetch
+sudo apt install neofetch
+apt install neofetch
+apt-install neofetch
+apt install neofetch
+apt update
+sudo apt install neofetch
+apt install neofetch
+neofetch
+apt-cache showpkg apache2
+apt-get install apache2=2.4.50-5ubuntu8.7
+apt-get install apache2=2.4.50
+apt-get install apache2=2.4.49
+apt install apache2
+ls
+neofetch
+apache -version
+httpd -v
+sudo apt install apache
+apt install apache2
+httpd -v
+httpd -V
+apachectl -V
+git clone cve-2021-42013
+git clone https://github.com/twseptian/python-exploit-scripts.git
+apt install git
+git clone https://github.com/twseptian/python-exploit-scripts.git
+ls
+cd python-exploit-scripts
+ls
+cd cve-2021-42013
+ls
+cd ..
+ls
+cd /usr/local/directadmin/custombuild/
+echo "apache2.4:2.4.50:” > custom_versions.txt;
+
+cat custom_versions.txt
+cat custom_versions.txt
+emacs custom_versions.txt
+vim custom_versions.txt
+apt install vim
+vim custom_versions.txt
+cat custom_versions.txt
+harden_symlinks_patch=no
+/build update
+./build update
+# apt-get install apache2=2.44
+'
+
+apt-get install apache2=2.4.50
+apt-cache policy apache2
+docker ps -a
+docker ps -i
+ls
+neofetch
+sudo apt list -a apache2
+apt list -a apache2
+sudo apt remove apache2
+apt remove apache2
+systemctl stop apache2
+apt install systemctl
+systemctl stop apache2
+apt remove apache2
+apt autoremove
+apt list -a apache2
+ls
+mkdir tarballs
+cd tarballs/
+ls
+curl https://archive.apache.org/dist/httpd/httpd-2.4.49.tar.gz
+apt install nala
+nala install curl
+
+ls
+curl https://archive.apache.org/dist/httpd/httpd-2.4.49.tar.gz apache2.4.49.tar.gz
+curl -L https://archive.apache.org/dist/httpd/httpd-2.4.49.tar.gz
+ls
+curl -O https://archive.apache.org/dist/httpd/httpd-2.4.49.tar.gz
+ls
+tar httpd-2.4.49.tar.gz 
+ls
+tar xjf httpd-2.4.49.tar.gz 
+tar -xzf httpd-2.4.49.tar.gz
+ls
+cd httpd-2.4.49
+ls
+./configure
+./build
+make
+ls
+./configure
+xjfxj
+apt-get install libapr1-dev libaprutil1-dev
+xjfxj
+./configure
+make
+./configure
+cat config.log
+gcc
+apt install gcc
+./configure
+make
+apt install pcre
+apt install pcre-devel -y
+apt-get install libpcre3 libpcre3-dev
+./config
+./configure
+make
+./build
+build
+ls
+make install
+less README
+less INSTALL
+./configure --prefix=PREFIX
+ls
+./configure --prefix=/home/tarballs/httpd-2.4.49/PREFIX
+make
+ls
+ls -la
+make
+apt-get install build-essential
+make 
+make install
+less README
+less INSTALL
+PREFIX/bin/apachectl start
+./PREFIX/bin/apachectl start
+ls
+cd ..
+ls
+cd ..
+ls
+apache2
+cd tarballs
+cd httpd-2.4.49
+ls
+less LAYOUT
+less INSTALL
+systemctl restart apache2
+service apache2 start
+cd ..
+service apache2 start
+cd ..
+service apache2 start
+apache2 -v
+httpd -v
+ls
+cd tarballs
+httpd -v
+which -a apache2
+httpd -V
+nala install netcat
+ifconfig
+nala install ifconfig
+nala install iptools
+nala install net-tools
+ifconfig
+ping google.com
+nala install ping
+nala install iputils-ping
+ping google.com
+ifconfig
+nc -l -p 25565
+systemctl status apache2
+cd /etc/systemd/system/
+ls
+rm apache2.service
+cd ..
+cd /lib/systemd/system/
+ls
+mv apache2.service
+apt install emacs
+cc
+neofetch
+ls
+cd ..
+cd .
+cd..
+sudo systemctl start apache2.service
+systemctl enable apache2.service
+systemctl enable --now apache2.service
+ls
+cd tarballs
+cd httpd-2.4.49
+ls
+./buildconfg
+./buildconf
+ls
+neofetch
+ls
+neofetch
+apache2
+ls
+less INSTALL 
+neofetch
+docker -as
+which history
+history -w
+ls
+neofetch
+sudo apt install neofetch
+apt install neofetch
+apt-install neofetch
+apt install neofetch
+apt update
+sudo apt install neofetch
+apt install neofetch
+neofetch
+apt-cache showpkg apache2
+apt-get install apache2=2.4.50-5ubuntu8.7
+apt-get install apache2=2.4.50
+apt-get install apache2=2.4.49
+apt install apache2
+ls
+neofetch
+apache -version
+httpd -v
+sudo apt install apache
+apt install apache2
+httpd -v
+httpd -V
+apachectl -V
+git clone cve-2021-42013
+git clone https://github.com/twseptian/python-exploit-scripts.git
+apt install git
+git clone https://github.com/twseptian/python-exploit-scripts.git
+ls
+cd python-exploit-scripts
+ls
+cd cve-2021-42013
+ls
+cd ..
+ls
+cd /usr/local/directadmin/custombuild/
+echo "apache2.4:2.4.50:” > custom_versions.txt;
+
+cat custom_versions.txt
+cat custom_versions.txt
+emacs custom_versions.txt
+vim custom_versions.txt
+apt install vim
+vim custom_versions.txt
+cat custom_versions.txt
+harden_symlinks_patch=no
+/build update
+./build update
+# apt-get install apache2=2.44
+'
+
+apt-get install apache2=2.4.50
+apt-cache policy apache2
+docker ps -a
+docker ps -i
+ls
+neofetch
+sudo apt list -a apache2
+apt list -a apache2
+sudo apt remove apache2
+apt remove apache2
+systemctl stop apache2
+apt install systemctl
+systemctl stop apache2
+apt remove apache2
+apt autoremove
+apt list -a apache2
+ls
+mkdir tarballs
+cd tarballs/
+ls
+curl https://archive.apache.org/dist/httpd/httpd-2.4.49.tar.gz
+apt install nala
+nala install curl
+
+ls
+curl https://archive.apache.org/dist/httpd/httpd-2.4.49.tar.gz apache2.4.49.tar.gz
+curl -L https://archive.apache.org/dist/httpd/httpd-2.4.49.tar.gz
+ls
+curl -O https://archive.apache.org/dist/httpd/httpd-2.4.49.tar.gz
+ls
+tar httpd-2.4.49.tar.gz 
+ls
+tar xjf httpd-2.4.49.tar.gz 
+tar -xzf httpd-2.4.49.tar.gz
+ls
+cd httpd-2.4.49
+ls
+./configure
+./build
+make
+ls
+./configure
+xjfxj
+apt-get install libapr1-dev libaprutil1-dev
+xjfxj
+./configure
+make
+./configure
+cat config.log
+gcc
+apt install gcc
+./configure
+make
+apt install pcre
+apt install pcre-devel -y
+apt-get install libpcre3 libpcre3-dev
+./config
+./configure
+make
+./build
+build
+ls
+make install
+less README
+less INSTALL
+./configure --prefix=PREFIX
+ls
+./configure --prefix=/home/tarballs/httpd-2.4.49/PREFIX
+make
+ls
+ls -la
+make
+apt-get install build-essential
+make 
+make install
+less README
+less INSTALL
+PREFIX/bin/apachectl start
+./PREFIX/bin/apachectl start
+ls
+cd ..
+ls
+cd ..
+ls
+apache2
+cd tarballs
+cd httpd-2.4.49
+ls
+less LAYOUT
+less INSTALL
+systemctl restart apache2
+service apache2 start
+cd ..
+service apache2 start
+cd ..
+service apache2 start
+apache2 -v
+httpd -v
+ls
+cd tarballs
+httpd -v
+which -a apache2
+httpd -V
+nala install netcat
+ifconfig
+nala install ifconfig
+nala install iptools
+nala install net-tools
+ifconfig
+ping google.com
+nala install ping
+nala install iputils-ping
+ping google.com
+ifconfig
+nc -l -p 25565
+systemctl status apache2
+cd /etc/systemd/system/
+ls
+rm apache2.service
+cd ..
+cd /lib/systemd/system/
+ls
+mv apache2.service
+apt install emacs
+cc
+neofetch
+ls
+cd ..
+cd .
+cd..
+sudo systemctl start apache2.service
+systemctl enable apache2.service
+systemctl enable --now apache2.service
+ls
+cd tarballs
+cd httpd-2.4.49
+ls
+./buildconfg
+./buildconf
+ls
+neofetch
+ls
+neofetch
+apache2
+ls
+less INSTALL 
+neofetch
+docker -as
+which history
+history -w
+history -a
